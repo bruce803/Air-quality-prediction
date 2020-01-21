@@ -1,5 +1,5 @@
 # Air-quality-prediction
-We propose to continuously predict the whole $station \times feature$ map in the next 1 to 48 hours with a convolutional LSTM (ConvLSTM, long short-term memory), which replaces the fully connected network in the classical LSTM with convolutional operations.
+We propose to continuously predict the whole $station \times feature$ map in the next 1 to 48 hours with a non-stationary convolutional LSTM ( long short-term memory), which replaces the fully connected network in the classical LSTM with detrending and convolutional operations.
 
 ### Prediction on consecutive four frames
 
