@@ -10,3 +10,7 @@ We propose to continuously predict the whole $station \times feature$ map in the
 ![Visualization of the one $station \times feature$ frame predicted by the seq2seq model (left) vs the ground truth (right).](https://github.com/bruce803/Air-quality-prediction/blob/master/figs/2.PNG)
 
 ![Visualization of the one $station \times feature$ frame predicted by the seq2seq model (left) vs the ground truth (right).](https://github.com/bruce803/Air-quality-prediction/blob/master/figs/3.PNG)
+
+## Baseline 
+### Prediction for seven cities of China, the Beijing, Shanghai, Chengdu, Wwuhan, Gguangzhou, Xi'an, and Nanjing.
+![Visualization of the one $station \times feature$ frame predicted by the seq2seq model (left) vs the ground truth (right).](https://github.com/bruce803/Air-quality-prediction/blob/master/figs/predict-map-7city.png)
